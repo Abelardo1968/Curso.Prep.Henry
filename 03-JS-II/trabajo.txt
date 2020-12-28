@@ -1,0 +1,26 @@
+For
+Es una instrucción que genera un ciclo a partir de una variable inicial, una condición o meta de llegada y por ultimo el incremento de la variable.
+
+&& es un operador de JS que indica la opción Y and lógico 
+Ejemplo
+A   b    a&&b
+V    V      V
+V    F       F
+F    V       F
+F    F       F
+
+||  es un operador de JS que indica la opción O, OR lógico 
+
+A   b    a||b
+V    V      V
+V    F       V
+F    V       V
+F    F       F
+
+¡  Es un operador de JS que indica negación, NOT lógico
+
+a         !a
+V         F
+V         F
+F         V
+F         V
