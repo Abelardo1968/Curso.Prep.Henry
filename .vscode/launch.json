@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://github.com/Abelardo1968/Hello.git",
+            "request": "launch",
+            "url": "https://github.com/Abelardo1968/Hello.git"
+        }
+    ]
+}
