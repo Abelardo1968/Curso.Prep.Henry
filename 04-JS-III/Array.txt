@@ -1,0 +1,10 @@
+Los arrays son objetos como semejantes a las listas, las cuales tienen una posición e inician por el 0, después 1, 2, 3, esta longitud puede cambiar en cualquier momento según lo requiera el programador, utiliza otros parámetros, como son:
+Crear un Array
+Acceder a un elemento de Array mediante su índice
+Recorrer un Array
+Añadir un elemento al final de un Array
+Eliminar el último elemento de un Array
+Añadir un elemento al principio de un Array
+Eliminar el primer elemento de un Array
+Encontrar el índice de un elemento del Array
+Eliminar un único elemento mediante su posición
